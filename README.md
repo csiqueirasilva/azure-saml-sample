@@ -44,3 +44,7 @@ The certificate content can be downloaded from the SAML page of the application 
 entityId is the **Microsoft Entra Identifier URL**
 
 url for isngleSignOnService is **Login URL**
+
+## docker
+
+run with **docker compose up -d**
