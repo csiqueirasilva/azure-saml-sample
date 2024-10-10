@@ -48,3 +48,17 @@ url for isngleSignOnService is **Login URL**
 ## docker
 
 run with **docker compose up -d**
+
+## running the application
+
+go to http://localhost
+
+![image](https://github.com/user-attachments/assets/c6ce78c7-6926-4d69-9bc8-9d0ad61807fa)
+
+click the link and go through authentication (need to be authorized in azure)
+
+after logging in, the sample displays some information (attributes)
+
+an example:
+
+![image](https://github.com/user-attachments/assets/9d728763-9e83-4c2e-ad2b-04365b6da100)
